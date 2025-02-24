@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CitaMedicaCL</string>
+
+    <string name="default_web_client_id">13496568239-mnane4s15turkigddp3dv2mbr8tf8uom.apps.googleusercontent.com</string>
+
+
+    <string name="login_title">Inicio de Sesión</string>
+
+    <string name="patient_option">Paciente</string>
+    <string name="receptionist_option">Recepcionista</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="register_prompt">¿No tienes cuenta?</string>
+    <string name="register_link">Regístrate</string>
+    <string name="register_title">Registro</string>
+    <string name="name_hint">Nombre completo</string>
+    <string name="confirm_password_hint">Confirmar contraseña</string>
+    <string name="register_button">Registrarse</string>
+    <string name="user_type_label">Tipo de usuario:</string>
+</resources>

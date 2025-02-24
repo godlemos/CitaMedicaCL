@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "13496568239",
+    "project_id": "citamedicacl",
+    "storage_bucket": "citamedicacl.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13496568239:android:1b6457f6e9a95427f7475a",
+        "android_client_info": {
+          "package_name": "com.example.citamedicacl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13496568239-sgi39tll677cq938mujkop18n0j1jbh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.citamedicacl",
+            "certificate_hash": "338ed693eae18a9433989a890f099a4ca2af7818"
+          }
+        },
+        {
+          "client_id": "13496568239-mnane4s15turkigddp3dv2mbr8tf8uom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR5oC-cDD_yW98LGnaLkqV3Ni77p8bdG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13496568239-mnane4s15turkigddp3dv2mbr8tf8uom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
