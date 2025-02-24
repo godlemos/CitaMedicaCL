@@ -38,3 +38,9 @@ CitaMedicaCL es una aplicación móvil Android que facilita la gestión de citas
 2. Presiona el botón "+" para agendar una nueva cita
 3. Selecciona médico, fecha y hora disponible
 4. Confirma la cita
+
+
+
+
+https://github.com/user-attachments/assets/7078c1d7-08f3-48b5-97e9-0139358fa5e3
+
